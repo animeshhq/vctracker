@@ -1,11 +1,11 @@
-# 🧠 VC Tracker (India)
+# VC Tracker
 
 This is my ongoing build — a project where I'm tracking, analysing, and visualising **venture capital investments in India**.  
 This is me learning how India’s VC system actually moves — foreign & domestic money, who’s backing what, and how it all connects.
 
 ---
 
-## ⚙️ What’s working right now
+## What’s working right now
 
 - [x] MongoDB set up with test data  
 - [x] Flask backend serving API
@@ -16,7 +16,7 @@ This is me learning how India’s VC system actually moves — foreign & domesti
 
 ---
 
-## 🧩 Next steps
+## Next steps
 
 ### Backend
 - [ ] Add API keys / route protection  
@@ -37,14 +37,14 @@ This is me learning how India’s VC system actually moves — foreign & domesti
 
 ---
 
-## 🧠 Stack
+## Stack
 
 - **Frontend:** React (Vite) + TailwindCSS + Cloudflare Pages  
 - **Backend:** Flask + PyMongo + Gunicorn + Nginx  
 - **Database:** MongoDB (Atlas)
 ---
 
-## 📍 What this project really is
+## What this project really is
 
 This is my lab.  
 I’m using it to:
